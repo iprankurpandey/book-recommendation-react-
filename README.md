@@ -1,4 +1,4 @@
-# Welcome to emoji search 
+# Welcome to book reccomendation app
 This project is part of NeoGCamp Mark-IX assesment . this is aN book reccomendation app which tell the meaning of emojis when searched or clicked 
 ## tech stack
 
